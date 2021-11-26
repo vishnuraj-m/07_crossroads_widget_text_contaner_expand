@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 
+// ignore: must_be_immutable
 class HomePage extends StatelessWidget {
   HomePage({Key? key}) : super(key: key);
-  String name = 'Finity';
+  String name = 'CreossRoads';
 
   @override
   Widget build(BuildContext context) {
